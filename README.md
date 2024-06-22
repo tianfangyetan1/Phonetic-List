@@ -1,1 +1,4 @@
-# Phonetic-List
+# PhoneticList
+
+#### 此仓库的内容
+浙江省高职高考语文易错字音整理及用于格式化的代码
