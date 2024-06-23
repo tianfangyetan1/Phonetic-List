@@ -1,4 +1,4 @@
-# PhoneticList
+# Phonetic-List
 [![Gitee 仓库](https://img.shields.io/badge/Gitee-仓库-C71D23?logo=gitee)](https://gitee.com/tianfangyetan1/phonetic-list)
 [![Github 仓库](https://img.shields.io/badge/Github-仓库-0969DA?logo=github)](https://github.com/tianfangyetan1/Phonetic-List)
 #### 此仓库的内容
