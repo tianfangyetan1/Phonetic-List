@@ -27,7 +27,7 @@ word.Visible = True  # 让Word可见
 doc = word.Documents.Add()
 
 # 打开markdown文件
-with open('file.md', 'r', encoding='utf-8') as f:
+with open('assets.md', 'r', encoding='utf-8') as f:
   content = f.readlines()
 
 insert_pinyin_text(doc, 0, '字', 'zì')  
