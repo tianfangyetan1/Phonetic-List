@@ -1,7 +1,8 @@
 # Phonetic-List
 
-[![Github 仓库](https://img.shields.io/badge/Github-仓库-0969DA?logo=github)](https://github.com/tianfangyetan1/Phonetic-List) [![Gitee 仓库](https://img.shields.io/badge/Gitee-仓库-C71D23?logo=gitee)](https://gitee.com/tianfangyetan1/Phonetic-List)
- [![Github 发行版](https://img.shields.io/github/v/release/tianfangyetan1/Phonetic-List)](https://github.com/tianfangyetan1/Phonetic-List/releases)
+[![Github 仓库](https://img.shields.io/badge/Github-仓库-0969DA?logo=github)](https://github.com/tianfangyetan1/Phonetic-List)
+[![Gitee 仓库](https://img.shields.io/badge/Gitee-仓库-C71D23?logo=gitee)](https://gitee.com/tianfangyetan1/Phonetic-List)
+[![Github 发行版](https://img.shields.io/github/v/release/tianfangyetan1/Phonetic-List)](https://github.com/tianfangyetan1/Phonetic-List/releases)
 
 ## 此仓库的内容
 
