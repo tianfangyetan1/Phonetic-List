@@ -10,4 +10,4 @@
 
 ## 注意事项
 
-Gitee仓库是通过GitHub仓库镜像的，请勿向Gitee仓库提交代码、`issue`和`Pull-Requests`。
+Gitee仓库是通过GitHub仓库镜像的，请勿向Gitee仓库提交代码、`Issue`和`Pull-Requests`。
